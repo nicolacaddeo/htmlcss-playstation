@@ -8,3 +8,43 @@ body {
 /************************
     //GENERALS
 ************************/
+
+/*************************
+    PERSONAL STYLE CLASSES
+**************************/
+.nc-bg-dark {
+    background-color: #000;
+}
+
+.nc-button-border-radius {
+    border-radius: 1rem;
+}
+
+
+/*************************
+    //PERSONAL STYLE CLASSES
+**************************/
+
+/***** HEADER *****/
+.nc-logo-width {
+    max-width: 100px;
+}
+
+.nc-d-inline-block {
+    display: inline-block;
+}
+
+.nc-link-border {
+    border: none;
+}
+
+.nc-link-border:hover {
+    border: none;
+}
+
+.nc-search {
+    font-size: 1.2rem;
+
+}
+
+/***** //HEADER *****/
