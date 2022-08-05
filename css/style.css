@@ -68,6 +68,14 @@ body {
 
 /***** //Jumbotron *****/
 
-/*** Returnal/Ratchet-clank Cards ***/
+/*** Console and accesories section ***/
+#pics-button p {
+    max-width: 120px;
+    margin: 0 auto;
+}
 
-/*** //Returnal/Ratchet-clank Cards ***/
+#pics-button img {
+    max-width: 100px;
+}
+
+/*** //Console and accesories section ***/
