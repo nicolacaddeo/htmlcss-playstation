@@ -20,15 +20,12 @@ body {
     border-radius: 1rem;
 }
 
-
+.nc-white-text
 /*************************
     //PERSONAL STYLE CLASSES
 **************************/
 
 /***** HEADER *****/
-.nc-logo-width {
-    max-width: 100px;
-}
 
 .nc-d-inline-block {
     display: inline-block;
@@ -48,3 +45,25 @@ body {
 }
 
 /***** //HEADER *****/
+
+/***** Jumbotron *****/
+#jumbotron {
+    background-image: url('../img/jumbo-bg.png');
+    background-size: cover;
+    background-position: top;
+}
+
+.nc-m-12 {
+    margin-top: 12rem;
+}
+
+.nc-orange-btn {
+    background-color: #cd3d0f;
+    border: none;
+}
+
+.nc-orange-btn:hover {
+    background-color: #a6330c;
+}
+
+/***** //Jumbotron *****/
