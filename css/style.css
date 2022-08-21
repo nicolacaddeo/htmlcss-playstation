@@ -79,3 +79,12 @@ body {
 }
 
 /*** //Console and accesories section ***/
+
+/*** It takes two section ***/
+#it-takes-two {
+    background-image: url('../img/it-takes-two-hero-banner-desktop.jpg');
+    background-size: cover;
+    background-position: top;
+}
+
+/*** //It takes two section ***/
